@@ -9,3 +9,4 @@ simple online bank with python3
 
 4-and for use this program you should run server.py
 
+![q](https://user-images.githubusercontent.com/52742374/64935716-f11dbd80-d867-11e9-9003-4ebd3de91e27.JPG)
